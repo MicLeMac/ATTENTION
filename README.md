@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><code>Attention</code></h1>
+  <code>Attention</code>
   <p>
     <strong>Présentation du mécanisme d'attention et des transformers</strong>
   </p>
