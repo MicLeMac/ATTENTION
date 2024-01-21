@@ -11,10 +11,10 @@
 
 # Utilisation
 
-La présentation sur les mécanismes d'attention est présent sur ce git au format pdf.
+La présentation sur les mécanismes d'attention est présent sur ce git au format pdf. \n
 Vous pouvez utiliser le NoteBook de ce git pour utiliser un transformer déjà pré-entrainé.
 
 # Sources 
 
-https://arxiv.org/abs/1508.04025
+https://arxiv.org/abs/1508.04025\n
 https://arxiv.org/abs/1706.03762
